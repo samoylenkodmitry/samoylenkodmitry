@@ -12,6 +12,7 @@
 |---|---|---|
 | **[shrtlin](https://github.com/samoylenkodmitry/shrtlin)** | All-in-one, privacy-focused, self-hosted URL shortener for every platform — Kotlin, Ktor, Compose Multiplatform. | [shrtl.in](https://shrtl.in) |
 | **[CranScan](https://github.com/samoylenkodmitry/cranscan-models)** | A private, offline document scanner shipping on Google Play — this repo hosts its on-device ML model packs. | [site](https://cranscan.dmitrysamoylenko.in) |
+| **[Orbit Breaker](https://github.com/samoylenkodmitry/orbit-breaker)** | A circular brick breaker built for round Wear OS watches. Turn the crown, sweep the paddle around the whole edge, break the ring. Runs on the watch alone. | [site](https://orbitbreaker.dmitrysamoylenko.in/) |
 | **[cranamp](https://github.com/samoylenkodmitry/cranamp)** | A Winamp-style, Cranpose-powered multiplatform audio player. | [demo](https://samoylenkodmitry.github.io/cranamp/) |
 | **[VibeAge](https://github.com/samoylenkodmitry/vibeage)** | A vibe-coded browser MMORPG built in TypeScript. | [vibeage.eu](https://vibeage.eu/) |
 | **[DayNight Wallpaper](https://github.com/samoylenkodmitry/daynight-video-wallpaper)** | Turns an Android home screen into a living video wallpaper that shifts with the time of day. | |
