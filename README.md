@@ -5,6 +5,7 @@
 | Project | What it is | Live |
 |---|---|---|
 | **[Cranpose](https://github.com/samoylenkodmitry/Cranpose)** | A Jetpack Compose–inspired declarative UI framework, written from scratch in **Rust**. | [site](https://samoylenkodmitry.github.io/Cranpose) · [crates.io](https://crates.io/crates/cranpose) |
+| **[Showcase Cranpose](https://github.com/samoylenkodmitry/cranpose-showcase)** | A polished, cross-platform Cranpose app demonstrating liquid-glass surfaces, adaptive layouts, and motion. | [demo](https://samoylenkodmitry.github.io/cranpose-showcase/) · [releases](https://github.com/samoylenkodmitry/cranpose-showcase/releases) |
 
 ## Apps & Products
 
