@@ -18,6 +18,7 @@
 | **[VibeAge](https://github.com/samoylenkodmitry/vibeage)** | A vibe-coded browser MMORPG built in TypeScript. | [vibeage.eu](https://vibeage.eu/) |
 | **[DayNight Wallpaper](https://github.com/samoylenkodmitry/daynight-video-wallpaper)** | Turns an Android home screen into a living video wallpaper that shifts with the time of day. | |
 | **[webmux](https://github.com/samoylenkodmitry/webmux)** | A tiny self-hosted web terminal for your tmux sessions, built for phones. | |
+| **[DMXT](https://github.com/samoylenkodmitry/dmxt)** | Create a custom USB keyboard and mouse with an Orange Pi Zero 3. | |
 
 ## IDE Plugins
 
