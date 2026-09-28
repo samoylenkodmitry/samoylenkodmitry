@@ -24,6 +24,8 @@
 
 | Project | What it is | Live |
 |---|---|---|
+| **[Cranpose Studio](https://github.com/samoylenkodmitry/cranpose-idea)** | Rust/Cranpose tooling for IntelliJ IDEA and RustRover: live previews, source controls, layout inspection and local platform builds. | [Marketplace](https://plugins.jetbrains.com/plugin/34594-cranpose) |
+| **[Cranpose IntelliJ plugin template](https://github.com/samoylenkodmitry/cranpose-intellij-plugin-template)** | Build IntelliJ plugins in Rust with Cranpose UI, a shared native host, editor integration and release tooling. | [Use template](https://github.com/samoylenkodmitry/cranpose-intellij-plugin-template/generate) |
 | **[Zeus-Thunderbolt](https://github.com/samoylenkodmitry/Zeus-Thunderbolt-Idea-Plugin)** | IntelliJ IDEA plugin inspired by PowerMode — lightning and thunder as you type. | [Marketplace](https://plugins.jetbrains.com/plugin/25866-zeus-thunderbolt/) |
 | **[difftrack — Branch Lens](https://github.com/samoylenkodmitry/difftrack)** | IntelliJ gutter badges for lines that differ across your other local Git branches. | [Marketplace](https://plugins.jetbrains.com/plugin/31792-branch-lens/) |
 
